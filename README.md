@@ -12,7 +12,7 @@ NoisePrint: [Noiseprint Model](https://grip-unina.github.io/noiseprint/)
 SRM: [SRM Filter Kernel](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf)
 
 ## Instructions
-- Run the notebook "SD.ipynb" in "Sistemi-Digitali-M" in order to train the network.
+- Run the notebook "SD.ipynb" in "Tampering-Detection" in order to train the network.
 
 ## Example Images
  <figure>
